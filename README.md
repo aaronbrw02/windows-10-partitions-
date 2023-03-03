@@ -1,6 +1,4 @@
-<h1>Creating Partition in Windows 10</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Creating Partitions in Windows 10</h1>
 
 <h2>Description</h2>
 Project consists of using Dispart within PowerShell to create partitions.
